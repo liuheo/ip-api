@@ -1,7 +1,5 @@
 **地址①**：http://opendata.baidu.com/api.php?co=&resource_id=6006&oe=utf8&query=
 
-请求类型：GET
-
 请求参数：query
 
 CORS跨域支持：否
@@ -44,8 +42,6 @@ https://opendata.baidu.com/api.php?co=&resource_id=6006&oe=utf8&query=121.8.215.
 &emsp;
 
 **地址②**：https://ipapi.com/ip_api.php?ip=121.8.215.106
-
-请求类型：GET
 
 请求参数：ip
 
@@ -124,8 +120,6 @@ https://ipapi.com/ip_api.php?ip=121.8.215.106
 &emsp;
 
 **地址③**：https://ip9.com.cn/get?ip=121.8.215.106
-
-请求类型：GET
 
 请求参数：ip
 
